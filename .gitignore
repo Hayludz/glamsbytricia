@@ -1,0 +1,21 @@
+# Local tooling
+.claude/
+.agents/
+.mcp.json
+skills-lock.json
+
+# Source material — originals stay on the local machine, not published
+Inspiration/
+Logo/
+Pricing/
+More photos/
+Pictures of Patricia/
+Pictures of Patricia - transparent background/
+
+# Vercel
+.vercel/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
